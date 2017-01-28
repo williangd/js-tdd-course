@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Nossa biblioteca do curso de JS com TDD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williangd/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Willian Oliveira <williangd@yahoo.com.br> (http://www.wno.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/williangd/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/williangd/js-tdd-course#readme"
+}
